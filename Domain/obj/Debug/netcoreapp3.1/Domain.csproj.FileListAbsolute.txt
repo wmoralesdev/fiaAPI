@@ -1,0 +1,9 @@
+C:\Users\Walter\source\repos\FIA\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Walter\source\repos\FIA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\FIA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Walter\source\repos\FIA\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\FIA\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Walter\source\repos\FIA\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Walter\source\repos\FIA\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Walter\source\repos\FIA\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Walter\source\repos\FIA\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
